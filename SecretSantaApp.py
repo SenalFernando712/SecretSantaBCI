@@ -6,7 +6,7 @@ ListB = ["PASS123", "PASS456", "PASS789", "PASS000"]
 ListC = ["GiftA", "GiftB", "GiftC", "GiftD"]
 
 # Streamlit app
-st.title("Secret Santa Assignment")
+st.title("BCI Choir | Secret Santa 2024")
 
 # Input fields for username and passcode
 username = st.text_input("Enter your Username:")
