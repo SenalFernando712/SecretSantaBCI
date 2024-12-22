@@ -2,7 +2,7 @@ import streamlit as st
 
 # Example Lists
 ListA = [
-    "Ishan", "Sanjana", "John", "Pasan", "Bewani", "Sahasra", "Shenali", "Roshane",
+    "Anuhas", "Sanjana", "John", "Pasan", "Bewani", "Sahasra", "Shenali", "Roshane",
     "Senal", "Rashmi", "Dewmi", "Imasha", "Mihashi", "Nipuni", 
     "Bawanthi", "Sithmi", "Ranith", "Sewmini", "Adithya", "Sasanga", 
     "Pinky", "Manushi", "Kavindi", "Nimrod", "Linusha", "Shenoli", 
@@ -16,7 +16,7 @@ ListB = ['PDQPRM', 'AUN8KJ', 'CZYRWD', '0B4ZB1', 'DIP31Z', 'XUTXDN',
 
 ListC = ['Manushi', 'Dewmi', 'Kavindi', 'Nimrod', 'Linusha', 'Sewmini', 
          'Bewani', 'Bawanthi', 'Ranith', 'Senal', 'Sandali', 'Sasanga', 
-         'Pinky', 'Shenoli', 'Shenali', 'Roshane', 'Rashmi', 'Ishan', 
+         'Pinky', 'Shenoli', 'Shenali', 'Roshane', 'Rashmi', 'Anuhas', 
          'Nipuni', 'Pasan', 'Sanjana', 'Sahasra', 'Sithmi', 'John', 
          'Imasha', 'Mihashi', 'Adithya']
 
