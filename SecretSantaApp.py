@@ -14,7 +14,7 @@ ListB = ['PDQPRM', 'AUN8KJ', 'CZYRWD', '0B4ZB1', 'DIP31Z', 'XUTXDN',
          'M2X6XY', 'PXAPXN', 'E5ETY5', 'LFI63V', 'SAG91O', '77HGHA', 
          'PR1NAP', 'TNO8R1', 'QXACLG']
 
-ListC = ['Manushi', 'Dewmi', 'Kavindi', 'Nimrod', 'Linusha', 'Sewmini', 
+ListC = ['Nimrod', 'Dewmi', 'Kavindi', 'Manushi', 'Linusha', 'Sewmini', 
          'Bewani', 'Bawanthi', 'Ranith', 'Senal', 'Sandali', 'Sasanga', 
          'Pinky', 'Shenoli', 'Shenali', 'Roshane', 'Rashmi', 'Anuhas', 
          'Nipuni', 'Pasan', 'Sanjana', 'Sahasra', 'Sithmi', 'John', 
@@ -32,7 +32,7 @@ if st.button("Submit"):
     if username in ListA:
         index = ListA.index(username)
         if ListB[index] == passcode:
-            st.success(f"You are the Secret Santa of: {ListC[index]}")
+            st.success(f"You are the Secret Santa of : {ListC[index]}")
         else:
             st.error("Invalid passcode. Please try again.")
     else:
