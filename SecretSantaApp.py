@@ -14,10 +14,10 @@ ListB = ['PDQPRM', 'AUN8KJ', 'CZYRWD', '0B4ZB1', 'DIP31Z', 'XUTXDN',
          'M2X6XY', 'PXAPXN', 'E5ETY5', 'LFI63V', 'SAG91O', '77HGHA', 
          'PR1NAP', 'TNO8R1', 'QXACLG']
 
-ListC = ['Nimrod', 'Dewmi', 'Kavindi', 'Manushi', 'Linusha', 'Sewmini', 
+ListC = ['Manushi', 'Dewmi', 'Kavindi', 'Nimrod', 'Linusha', 'Sewmini', 
          'Bewani', 'Bawanthi', 'Ranith', 'Senal', 'Sandali', 'Sasanga', 
          'Pinky', 'Shenoli', 'Shenali', 'Roshane', 'Rashmi', 'Anuhas', 
-         'Nipuni', 'Pasan', 'Sanjana', 'Sahasra', 'Sithmi', 'John', 
+         'Nipuni', 'Sahasra', 'Sanjana', 'Pasan', 'Sithmi', 'John', 
          'Imasha', 'Mihashi', 'Adithya']
 
 # Streamlit app
