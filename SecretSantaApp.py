@@ -32,7 +32,7 @@ if st.button("Submit"):
     if username in ListA:
         index = ListA.index(username)
         if ListB[index] == passcode:
-            st.success(f"Your Secret Santa assignment is: {ListC[index]}")
+            st.success(f"You are the Secret Santa of: {ListC[index]}")
         else:
             st.error("Invalid passcode. Please try again.")
     else:
