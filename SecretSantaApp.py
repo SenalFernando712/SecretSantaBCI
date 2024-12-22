@@ -1,9 +1,24 @@
 import streamlit as st
 
 # Example Lists
-ListA = ["Ishan", "Senal", "Rashmi", "Dewmi"]
-ListB = ["PASS123", "PASS456", "PASS789", "PASS000"]
-ListC = ["GiftA", "GiftB", "GiftC", "GiftD"]
+ListA = [
+    "Ishan", "Sanjana", "John", "Pasan", "Bewani", "Sahasra", "Shenali", "Roshane",
+    "Senal", "Rashmi", "Dewmi", "Imasha", "Mihashi", "Nipuni", 
+    "Bawanthi", "Sithmi", "Ranith", "Sewmini", "Adithya", "Sasanga", 
+    "Pinky", "Manushi", "Kavindi", "Nimrod", "Linusha", "Shenoli", 
+    "Sandali"
+]
+ListB = ['PDQPRM', 'AUN8KJ', 'CZYRWD', '0B4ZB1', 'DIP31Z', 'XUTXDN', 
+         'UW6E8L', '5U2G2S', 'ICTJOE', '94L9N5', 'J5G9A2', 'F9SW0O', 
+         '3FZT2X', '1NIJ8Q', 'JU0TKG', 'M6S3W6', 'FP6ZXO', 'R19LG8', 
+         'M2X6XY', 'PXAPXN', 'E5ETY5', 'LFI63V', 'SAG91O', '77HGHA', 
+         'PR1NAP', 'TNO8R1', 'QXACLG']
+
+ListC = ['Manushi', 'Dewmi', 'Kavindi', 'Nimrod', 'Linusha', 'Sewmini', 
+         'Bewani', 'Bawanthi', 'Ranith', 'Senal', 'Sandali', 'Sasanga', 
+         'Pinky', 'Shenoli', 'Shenali', 'Roshane', 'Rashmi', 'Ishan', 
+         'Nipuni', 'Pasan', 'Sanjana', 'Sahasra', 'Sithmi', 'John', 
+         'Imasha', 'Mihashi', 'Adithya']
 
 # Streamlit app
 st.title("BCI Choir | Secret Santa 2024")
